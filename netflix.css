@@ -139,6 +139,10 @@ nav button {
   font-weight: 400;
 
 }
+.arrow-button{
+  width: 40px;
+
+}
 
 .btn-red-sn {
   background-color: red;
